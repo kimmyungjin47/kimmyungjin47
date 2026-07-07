@@ -1,6 +1,7 @@
-## Hi there 👋
+## 김명진 (성일정보고등학교)
 
-<!--
+저는 현재 성일정보고등학교에서 프로그래밍을 공부하고 있습니다.
+웹 프로그래밍과 자바(java)에 공부하고있습니다.
 **kimmyungjin47/kimmyungjin47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
